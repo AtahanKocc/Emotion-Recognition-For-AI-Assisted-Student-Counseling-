@@ -24,5 +24,4 @@ Our success criteria in our project are as follows;
 In the work for the future, a more efficient algorithm can be used. In addition, if a data set is created based on the facial expressions of people in the country, these studies can give faster and more accurate results. In addition, our study is currently only used in the field of education, and it can be used in other fields in the future.
 
 
-#Footnote
-fer2013 dataset was used in this study.
+#Footnote: fer2013 dataset was used in this study.
